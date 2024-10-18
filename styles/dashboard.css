@@ -1,0 +1,24 @@
+body{
+    height: 100vh !important;
+    background-color: #f9f9f9;
+}
+
+.main-con{
+    height: 100%;
+    margin-left: 230px;
+}
+
+.main-con .con{
+    max-width: 990px;
+    width: 100%;
+}
+
+.main-con h2{
+    font-weight: 500;
+    margin: 30px 0;
+    padding-bottom: 6px;
+    border-bottom: 1px solid rgb(188, 145, 100);
+    width: 40%;
+    font-size: 26px;
+    margin-bottom: 20px;
+}

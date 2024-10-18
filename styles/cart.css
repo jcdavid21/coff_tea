@@ -1,0 +1,98 @@
+.cart-con{
+    position: fixed;
+    right: -100%;
+    top: 0;
+    bottom: 0;
+    width: 350px;
+    background-color: white;
+    border-right: 1px solid lightgray;
+    padding: 30px 20px;
+    border-left: 1px solid lightgray;
+    z-index: 1000;
+    transition: 0.5s ease;
+}
+.cart-con .title-con{
+    border-bottom: 1px solid rgb(188, 145, 100);
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cart-con h2{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.cart-con .cart-item
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.cart-con .cart-item .img-con{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(246, 224, 200);
+    border-radius: 6px;
+    padding: 10px;
+}
+
+.cart-con .btn-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.cart-con .btn-div button{
+    background-color: rgb(246, 224, 200);
+    padding: 4px 16px;
+    border-radius: 4px;
+}
+
+.cart-con .cart-item .img-con img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    object-position: center;
+}
+
+.cart-con .cart-item .details{
+    font-size: 14px;
+}
+
+.cart-con .cart-item .sugar, .cart-con .cart-item .size-name{
+    border-radius: 50px;
+    border: 1px solid black;
+    padding: 4px 8px;
+    width: fit-content;
+    font-size: 11px;
+}
+
+.cart-con .cart-item .sugar {
+    padding: 6px 4px;
+    font-size: 10px;
+}
+
+.cart-con .cart-item .add{
+    border: 1px solid #ccc;
+    padding: 1px 4px;
+    border-radius: 100%;
+}
+
+.cart-con .cart-item .remove{
+    cursor: pointer;
+    position: absolute;
+    top: -15px;
+    right: 5px;
+    color: white;
+    border-radius: 100%;
+    padding: 0 6px;
+    background-color: red;
+    font-size: 14px;
+}

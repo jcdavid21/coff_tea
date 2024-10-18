@@ -1,0 +1,46 @@
+.sidebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 230px;
+    background-color: white;
+    border-right: 1px solid lightgray;
+    padding: 30px 20px;
+}
+
+.sidebar .img-con{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.sidebar .img-con img{
+    object-fit: contain;
+    object-position: center;
+}
+
+.sidebar .menu{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+.sidebar .menu i{
+    font-size: 22px;
+}
+
+.sidebar .out{
+    position: absolute;
+    bottom: 0;
+}
+
+.sidebar .menu:hover{
+    color: #1a5589;
+}
+
