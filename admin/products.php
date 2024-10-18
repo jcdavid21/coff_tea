@@ -21,7 +21,8 @@
                                 <th scope="col" class="px-6 py-3">Product ID</th>
                                 <th scope="col" class="px-6 py-3">Category</th>
                                 <th scope="col" class="px-6 py-3">Product</th>
-                                <th scope="col" class="px-6 py-3">Amount</th>
+                                <th scope="col" class="px-6 py-3">Price (S)</th>
+                                <th scope="col" class="px-6 py-3">Price (M)</th>
                                 <th scope="col" class="px-6 py-3">Action</th>
                             </tr>
                         </thead>
@@ -31,7 +32,8 @@
                                 <th scope="row" class="px-6 py-4 font-medium text-black whitespace-nowrap">1</th>
                                 <td class="px-6 py-4">Hot Latte</td>
                                 <td class="px-6 py-4">Cafe Latte</td>
-                                <td class="px-6 py-4">Large</td>
+                                <td class="px-6 py-4">₱100</td>
+                                <td class="px-6 py-4">₱120</td>
                                 <td class="px-6 py-4">
                                     <a href="#" class="toggle-modal font-medium text-blue-600 hover:underline"><i class="fa-solid fa-eye"></i></a>
                                 </td>
@@ -41,7 +43,8 @@
                                 <th scope="row" class="px-6 py-4 font-medium text-black whitespace-nowrap">1</th>
                                 <td class="px-6 py-4">Hot Latte</td>
                                 <td class="px-6 py-4">Cafe Latte</td>
-                                <td class="px-6 py-4">Large</td>
+                                <td class="px-6 py-4">₱100</td>
+                                <td class="px-6 py-4">₱120</td>
                                 <td class="px-6 py-4">
                                     <a href="#" class="toggle-modal font-medium text-blue-600 hover:underline"><i class="fa-solid fa-eye"></i></a>
                                 </td>
@@ -51,7 +54,8 @@
                                 <th scope="row" class="px-6 py-4 font-medium text-black whitespace-nowrap">1</th>
                                 <td class="px-6 py-4">Hot Latte</td>
                                 <td class="px-6 py-4">Cafe Latte</td>
-                                <td class="px-6 py-4">Large</td>
+                                <td class="px-6 py-4">₱100</td>
+                                <td class="px-6 py-4">₱120</td>
                                 <td class="px-6 py-4">
                                     <a href="#" class="toggle-modal font-medium text-blue-600 hover:underline"><i class="fa-solid fa-eye"></i></a>
                                 </td>
@@ -61,7 +65,8 @@
                                 <th scope="row" class="px-6 py-4 font-medium text-black whitespace-nowrap">1</th>
                                 <td class="px-6 py-4">Hot Latte</td>
                                 <td class="px-6 py-4">Cafe Latte</td>
-                                <td class="px-6 py-4">Large</td>
+                                <td class="px-6 py-4">₱100</td>
+                                <td class="px-6 py-4">₱120</td>
                                 <td class="px-6 py-4">
                                     <a href="#" class="toggle-modal font-medium text-blue-600 hover:underline"><i class="fa-solid fa-eye"></i></a>
                                 </td>
