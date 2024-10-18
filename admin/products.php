@@ -18,7 +18,7 @@
                     <table class="w-full text-sm text-left rtl:text-right text-black">
                         <thead class="text-xs text-gray-700 uppercase bg-white">
                             <tr>
-                                <th scope="col" class="px-6 py-3">Order ID</th>
+                                <th scope="col" class="px-6 py-3">Product ID</th>
                                 <th scope="col" class="px-6 py-3">Category</th>
                                 <th scope="col" class="px-6 py-3">Product</th>
                                 <th scope="col" class="px-6 py-3">Amount</th>
